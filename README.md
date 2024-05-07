@@ -1,4 +1,4 @@
-# Django Poetry Boilerplate
+# Django Google SignIn OAuth
 
 ## Description
 Use this boilerplate to quickly start a Django project with a PostgreSQL database, poetry and docker setup.
